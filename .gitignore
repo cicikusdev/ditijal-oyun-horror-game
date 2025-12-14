@@ -2,4 +2,7 @@ Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
-.vscode
+.vscode/
+
+.DS_Store
+Thumbs.db
